@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @noahe10
 - 👀 I’m interested in storytelling
 - 🌱 I’m currently learning computer science and web development
-- 💞️ I’m looking to collaborate on making a game
+- 💞️ I’m looking to collaborate on making a game and different types of software
 - 📫 How to reach me: noahed10@gmail.com
 
 <!---
